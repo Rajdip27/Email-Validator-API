@@ -1,0 +1,6 @@
+@EmailValidatorAPI_HostAddress = http://localhost:5167
+
+GET {{EmailValidatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
